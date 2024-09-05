@@ -1,2 +1,2 @@
-#### winding up with 2 bqsics application 
-### check out on my github
+#### Winding up with 2 bqsics application 
+### Check out on my github
