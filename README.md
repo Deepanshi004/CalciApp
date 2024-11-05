@@ -22,4 +22,24 @@ To run this application, you need to have Java Development Kit (JDK) installed o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deepanshi004/simple-calculator-app.git
+   git clone https://github.com/your-username/simple-calculator-app.git
+Navigate to the project directory:
+bash
+Copy code
+cd simple-calculator-app
+Compile the Java files:
+bash
+Copy code
+javac Calculator.java
+Run the application:
+bash
+Copy code
+java Calculator
+Usage
+Launch the application.
+Enter two numbers for the calculation.
+Select the desired operation (addition, subtraction, multiplication, division).
+Press the equals button (=) to view the result.
+Use the clear button to reset the input fields.
+Contributing
+If you would like to contribute to this project, please fork the repository and create a new branch for your feature or bug fix. After making your changes, submit a pull request.
